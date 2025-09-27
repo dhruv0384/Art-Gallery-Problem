@@ -17,7 +17,6 @@ Screenshots of example runs are available in the `sample_results/` folder.
 
 2. **Run the main script**
     ```bash
-    cd Code
     python main.py
     ```
 3. A GUI will prompt you for the number of polygon vertices (`n`).  
